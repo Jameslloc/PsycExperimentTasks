@@ -1,4 +1,6 @@
 Alternative Uses Task
 Forward Flow Task
-Remote Associates Test
+Remote Associates Test (Psychopy and Qualtrics)
 Verbal Fluency Task
+
+Unless otherwise stated, all tasks are made in Psychopy, and work locally (coded in Python) and online through the Pavlovia platform (coded in Javascript)
